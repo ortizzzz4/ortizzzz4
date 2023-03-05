@@ -3,3 +3,5 @@ Python-Django
 entre otros
 
 ![Image text](https://github.com/ortizzzz4/ortizzzz4/blob/main/IMG_20181122_104415_2.jpg)
+ 
+ mysql
