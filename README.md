@@ -18,6 +18,7 @@
 <a>
   <img height=400  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ortizzzz4&layout=donut" />
 </a>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
