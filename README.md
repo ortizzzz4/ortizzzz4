@@ -17,7 +17,7 @@
 </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ortizzzz4&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ortizzzz4&layout=donut)
 
 <p align="center" width="300">
    <h3 align="center">Potafolio https://startling-horse-a25f00.netlify.app </h3>
