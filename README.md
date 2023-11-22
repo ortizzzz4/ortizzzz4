@@ -15,17 +15,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ortizzzz4)](https://github.com/anuraghazra/github-readme-stats)
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true" />
-</picture>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ortizzzz4)](https://github.com/ortizzzz4/github-readme-stats)
 
 <p align="center" width="300">
    <h3 align="center">Potafolio https://startling-horse-a25f00.netlify.app </h3>
