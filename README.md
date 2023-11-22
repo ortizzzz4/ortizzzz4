@@ -13,10 +13,10 @@
 
 
 <a>
-  <img height=500  align="center" src="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height=400  align="center" src="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </a>
 <a>
-  <img height=500  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ortizzzz4&layout=donut" />
+  <img height=400  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ortizzzz4&layout=donut" />
 </a>
 
 
