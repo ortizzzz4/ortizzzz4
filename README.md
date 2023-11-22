@@ -12,11 +12,6 @@
 ![Build Status](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
 
-![Anurag's GitHub stats]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ortizzzz4)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical" />
 </a>
