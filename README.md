@@ -13,11 +13,11 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height=200 width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </a>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center" width="300">
    <h3 align="center">Potafolio https://startling-horse-a25f00.netlify.app </h3>
