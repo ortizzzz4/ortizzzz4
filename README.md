@@ -15,11 +15,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical" />
 </a>
-<div style="background-color: #00ade9;">
+
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ortizzzz4&layout=compact&langs_count=8&card_width=320" />
   </a>
-</div>
+
 
 <p align="center" width="300">
    <h3 align="center">Potafolio https://startling-horse-a25f00.netlify.app </h3>
