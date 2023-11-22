@@ -12,7 +12,7 @@
 ![Build Status](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical)
 
 
 <p align="center" width="300">
