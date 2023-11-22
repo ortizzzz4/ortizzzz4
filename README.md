@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" height="" src="https://github.com/ortizzzz4/ortizzzz4/blob/main/IMG_20181122_104415_2.jpg" />
+   <img align="center" width="200" height="" src="https://github.com/ortizzzz4/ortizzzz4/blob/main/wallpaperflare.com_wallpaper.jpg" />
    <h3 align="center">¡Hey 👋! Soy ortizzzz4 🏻‍💻</h3>
 </p>
 
