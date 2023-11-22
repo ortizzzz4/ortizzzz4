@@ -11,11 +11,11 @@
 ![Build Status](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Build Status](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
-
+<div style="padding: 20px; border-radius: 15px;">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </a>
-
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ortizzzz4&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
