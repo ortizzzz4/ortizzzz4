@@ -12,12 +12,8 @@
 ![Build Status](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
 
-<details>
-<summary>Historial de Commits</summary>
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Tu contenido de CHANGELOG.md aquí -->
-
-</details>
 
 <p align="center" width="300">
    <h3 align="center">Potafolio https://startling-horse-a25f00.netlify.app </h3>
