@@ -11,13 +11,15 @@
 ![Build Status](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Build Status](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 
-<div width:600>
-<a>
-  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-</a>
-</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ortizzzz4&layout=donut)
+<a>
+  <img height=500  align="center" src="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+</a>
+<a>
+  <img height=500  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ortizzzz4&layout=donut" />
+</a>
+
+
 
 <p align="center" width="300">
    <h3 align="center">Potafolio https://startling-horse-a25f00.netlify.app </h3>
