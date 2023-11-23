@@ -33,11 +33,10 @@ code: [
 "Django",
 "Postgres",
 "Almacenamiento en la nube",
-"Linux"],
-cc : [
+"Linux",
 "css",
 "bootstrap"
-] 
+],
 },
 homePage: "https://startling-horse-a25f00.netlify.app"
 };
