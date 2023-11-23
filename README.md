@@ -15,7 +15,7 @@
 ![Build Status](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white) 
 
 ![Build Status](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) 
-![Build Status](https://starchart.cc/{ortizzzz4}/{repo}.svg) 
+![Build Status](https://starchart.cc/{ortizzzz4}/{[repo](https://github.com/ortizzzz4/ortizzzz4/edit/main/README.md)}.svg) 
 
 <a>
   <img height=300  align="center" src="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
