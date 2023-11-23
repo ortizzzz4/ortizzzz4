@@ -24,24 +24,16 @@
 ```javascript
 const KeepCoding = {
 code: [
-"BLOG TÉCNICO SOBRE DESARROLLO MOBILE","DESARROLLO WEB",
-"BIG DATA & MACHINE LEARNING",
-"DEVOPS",
-"CIBERSEGURIDAD",
-"BLOCKCHAIN"],
-technologies:[
-"Cursos Online",
-"Webbinars",
-"BootCamps",
-]
+"Back-end","Developer",
+"Odoo",
+"Python",
+"Django",
+"Postgres"],
+
 },
-homePage: "https://justcodeit.io/"
+homePage: "https://startling-horse-a25f00.netlify.app"
 };
 ``````
-![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=ortizzzz4)
 
 
 
-<p align="center" width="300">
-   <h3 align="center">Potafolio https://startling-horse-a25f00.netlify.app </h3>
-</p>
