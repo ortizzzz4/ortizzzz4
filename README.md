@@ -20,14 +20,14 @@
 </a>
 
 <a>
-  <img height=200 align="center" src="https://github.com/ortizzzz4/ortizzzz4/blob/main/are.jpg" />
+  <img height=300 align="center" src="https://github.com/ortizzzz4/ortizzzz4/blob/main/are.jpg" />
 
 </a>
 
    ```javascript
 const LayenCC = {
 code: [
-"Back-end","Developer",
+"Back-end Developer",
 "Odoo",
 "Python",
 "Django",
