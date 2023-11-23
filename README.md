@@ -19,9 +19,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ortizzzz4&layout=donut" />
 </a>
 
-
-![This is me](https://github.com/ortizzzz4/ortizzzz4/blob/main/are.jpg)
-```javascript
+<a>
+  <img height=200 align="center" src="https://github.com/ortizzzz4/ortizzzz4/blob/main/are.jpg" />
+   ```javascript
 const KeepCoding = {
 code: [
 "Back-end","Developer",
@@ -34,6 +34,11 @@ code: [
 homePage: "https://startling-horse-a25f00.netlify.app"
 };
 ``````
+</a>
+
+
+
+
 
 
 
