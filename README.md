@@ -25,13 +25,14 @@
 </a>
 
    ```javascript
-const KeepCoding = {
+const LayenCC = {
 code: [
 "Back-end","Developer",
 "Odoo",
 "Python",
 "Django",
-"Postgres"],
+"Postgres",
+"Almacenamiento en la nube"],
 
 },
 homePage: "https://startling-horse-a25f00.netlify.app"
