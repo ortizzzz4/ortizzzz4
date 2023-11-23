@@ -36,8 +36,7 @@ code: [
 "Linux",
 "css",
 "bootstrap"
-],
-},
+] },
 homePage: "https://startling-horse-a25f00.netlify.app"
 };
 ``````
