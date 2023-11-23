@@ -16,7 +16,7 @@
 
 ![Build Status](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) 
 <a>
-  <img height=300  align="center" src="https://starchart.cc/{username}/{repo}.svg" />
+  <img height=300  align="center" src="https://starchart.cc/{ortizzzz4}/{repo}.svg" />
 </a>
 <a>
   <img height=300  align="center" src="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
