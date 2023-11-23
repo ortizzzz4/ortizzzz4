@@ -34,11 +34,11 @@ code: [
 "Postgres",
 "Almacenamiento en la nube",
 "Linux"],
-},
 cc : [
 "css",
 "bootstrap"
 ]
+},
 homePage: "https://startling-horse-a25f00.netlify.app"
 };
 ``````
