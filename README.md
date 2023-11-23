@@ -20,7 +20,7 @@
 </a>
 
 
-![This is me](https://github.com/JustCodeItDeveloper/JustCodeItDeveloper/blob/main/logo.jpeg)
+![This is me](https://github.com/ortizzzz4/ortizzzz4/blob/main/are.jpg)
 ```javascript
 const KeepCoding = {
 code: [
