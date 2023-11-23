@@ -24,7 +24,7 @@
 
 </a>
 
-   ```javascript
+   ```Python3
 const LayenCC = {
 code: [
 "Back-end Developer",
