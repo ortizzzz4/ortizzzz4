@@ -21,6 +21,9 @@
 
 <a>
   <img height=200 align="center" src="https://github.com/ortizzzz4/ortizzzz4/blob/main/are.jpg" />
+
+</a>
+
    ```javascript
 const KeepCoding = {
 code: [
@@ -34,9 +37,6 @@ code: [
 homePage: "https://startling-horse-a25f00.netlify.app"
 };
 ``````
-</a>
-
-
 
 
 
