@@ -24,7 +24,7 @@
 
 </a>
 
-   ```Python3
+   ```javascript
 const LayenCC = {
 code: [
 "Back-end Developer",
@@ -32,9 +32,13 @@ code: [
 "Python",
 "Django",
 "Postgres",
-"Almacenamiento en la nube"],
-
+"Almacenamiento en la nube",
+"Linux"],
 },
+cc : [
+"css",
+"bootstrap"
+]
 homePage: "https://startling-horse-a25f00.netlify.app"
 };
 ``````
