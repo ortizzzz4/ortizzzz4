@@ -10,7 +10,7 @@
 ### 🚀 Sobre mí
 
 - 👨‍💻 Especialista en desarrollo de módulos personalizados en **Odoo v15–v17**, con foco en empresas del sector financiero, comercial y de servicios en **El Salvador**.
-- 🧾 Implementación de **Factura Electrónica (DTE)** en Odoo con cumplimiento DGII.
+- 🧾 Integracio de **Factura Electrónica (DTE)** en Odoo con cumplimiento DGII.
 - ⚙️ Automatización de procesos contables, generación de reportes PDF/XLSX, y desarrollo de flujos de validación tributaria.
 - 🌐 Desarrollo de sistemas web con **Vue.js**, **FastAPI** y **SQL Server**, incluyendo punto de venta visual, catálogo contable y validaciones dinámicas.
 - 🐙 Control de versiones con Git y despliegue en Docker.
@@ -47,8 +47,7 @@
 
 ### 💡 Proyecto destacado: Factura Electrónica en Odoo
 
-> Módulo para Odoo v16 para emisión de **Comprobantes Electrónicos (DTE)**:  
-> ✅ Generación de XML  
+> Módulo para Odoo v16 para emisión de **Comprobantes Electrónicos (DTE),Entre otros**:  
 > ✅ Validación tributaria  
 > ✅ Firma digital y envío a la DGII  
 > ✅ Integración con ventas y punto de venta  
