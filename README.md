@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/ortizzzz4/ortizzzz4/blob/main/assets/starfall-gif-46.gif" width="100%" />
+   <img src="https://github.com/ortizzzz4/ortizzzz4/blob/main/assets/starfall-gif-46.gif" width="50%" />
 </p>
 
 <h3 align="center">¡Hey 👋! Soy ortizzzz4 💻</h3>
