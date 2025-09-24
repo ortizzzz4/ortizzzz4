@@ -1,7 +1,10 @@
 <p align="center">
    <img align="center" width="200" src="https://github.com/ortizzzz4/ortizzzz4/blob/main/wallpaperflare.com_wallpaper.jpg" />
 </p>
-![Banner Confetti](https://github.com/ortizzzz4/ortizzzz4/blob/main/assets/starfall-gif-46.gif)
+
+<p align="center">
+   <img src="https://github.com/ortizzzz4/ortizzzz4/blob/main/assets/starfall-gif-46.gif" width="100%" />
+</p>
 
 <h3 align="center">¡Hey 👋! Soy ortizzzz4 💻</h3>
 <p align="center">Desarrollador de software enfocado en soluciones empresariales y automatización contable con Odoo, Python y tecnologías modernas.</p>
