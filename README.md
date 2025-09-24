@@ -4,8 +4,18 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=500&color=FF00FF,00FFFF,FFFF00,FF4500&center=true&vCenter=true&width=900&lines=¡Hey+👋!+Soy+ortizzzz4+💻;Desarrollador+de+software+enfocado+en+soluciones+empresariales+y+automatización+contable+con+Odoo,+Python+y+tecnologías+modernas." alt="Presentación animada" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="900" height="120">
+    <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Fira Code" font-weight="bold" fill="red">
+      ¡Hey 👋! Soy ortizzzz4 💻
+      <animate attributeName="fill" values="red;blue;green;orange;purple;red" dur="25s" repeatCount="indefinite" />
+    </text>
+    <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" font-size="20" font-family="Fira Code" fill="blue">
+      Desarrollador de software enfocado en soluciones empresariales y automatización contable con Odoo, Python y tecnologías modernas.
+      <animate attributeName="fill" values="blue;purple;cyan;magenta;yellow;blue" dur="25s" repeatCount="indefinite" />
+    </text>
+  </svg>
 </p>
+
 ---
 
 ### 🚀 Sobre mí
