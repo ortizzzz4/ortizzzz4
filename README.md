@@ -2,9 +2,10 @@
    <img src="https://github.com/ortizzzz4/ortizzzz4/blob/main/assets/starfall-gif-46.gif" width="50%" />
 </p>
 
-<h3 align="center">¡Hey 👋! Soy ortizzzz4 💻</h3>
-<p align="center">Desarrollador de software enfocado en soluciones empresariales y automatización contable con Odoo, Python y tecnologías modernas.</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=500&color=FF00FF,00FFFF,FFFF00,FF4500&center=true&vCenter=true&width=900&lines=¡Hey+👋!+Soy+ortizzzz4+💻;Desarrollador+de+software+enfocado+en+soluciones+empresariales+y+automatización+contable+con+Odoo,+Python+y+tecnologías+modernas." alt="Presentación animada" />
+</p>
 ---
 
 ### 🚀 Sobre mí
