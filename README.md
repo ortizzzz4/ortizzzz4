@@ -1,6 +1,3 @@
-<p align="center">
-   <img align="center" width="200" src="https://github.com/ortizzzz4/ortizzzz4/blob/main/wallpaperflare.com_wallpaper.jpg" />
-</p>
 
 <p align="center">
    <img src="https://github.com/ortizzzz4/ortizzzz4/blob/main/assets/starfall-gif-46.gif" width="100%" />
