@@ -1,3 +1,16 @@
+<p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" width="900" height="120">
+    <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Fira Code" font-weight="bold" fill="red">
+      ¡Hey 👋! Soy ortizzzz4 💻
+      <animate attributeName="fill" values="red;blue;green;orange;purple;red" dur="25s" repeatCount="indefinite" />
+    </text>
+    <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" font-size="20" font-family="Fira Code" fill="blue">
+      Desarrollador de software enfocado en soluciones empresariales y automatización contable con Odoo, Python y tecnologías modernas.
+      <animate attributeName="fill" values="blue;purple;cyan;magenta;yellow;blue" dur="25s" repeatCount="indefinite" />
+    </text>
+  </svg>
+</p>
+
 
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
@@ -14,18 +27,7 @@
 
 
 
-<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" width="900" height="120">
-    <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle" font-size="28" font-family="Fira Code" font-weight="bold" fill="red">
-      ¡Hey 👋! Soy ortizzzz4 💻
-      <animate attributeName="fill" values="red;blue;green;orange;purple;red" dur="25s" repeatCount="indefinite" />
-    </text>
-    <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" font-size="20" font-family="Fira Code" fill="blue">
-      Desarrollador de software enfocado en soluciones empresariales y automatización contable con Odoo, Python y tecnologías modernas.
-      <animate attributeName="fill" values="blue;purple;cyan;magenta;yellow;blue" dur="25s" repeatCount="indefinite" />
-    </text>
-  </svg>
-</p>
+
 
 ---
 
