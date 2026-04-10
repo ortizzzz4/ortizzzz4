@@ -94,7 +94,12 @@
 > - Funciones: registro contable, carga de archivos, validaciones, reportes
 
 ---
+# Herramientas integradas en github
+Herramientas que github implementa en su markdown para crear elementos visuales
 
+## Mermaid
+
+```mermaid
 journey
   title My estudio para examenes
   section Se anuncia el examen
@@ -106,7 +111,7 @@ journey
   section Dia del EXAMEN
     No se que mas poner: 2: Yo
     
-
+```
 
 ### 🔗 Portafolio
 
