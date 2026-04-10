@@ -81,7 +81,8 @@
 > ✅ Validación tributaria  
 > ✅ Firma digital y envío a la DGII  
 > ✅ Integración con ventas y punto de venta  
-
+> ✅ Migracion de versiones
+> ✅ Configuracion de On-Premise
 ### 💡 Proyecto destacado: Plataforma contable con Vue + FastAPI
 
 > Sistema contable web desarrollado con:
