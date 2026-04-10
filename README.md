@@ -65,7 +65,7 @@
 
 <a>
  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical)
+  ![ortizzzz4's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ortizzzz4\&show_icons=true\&theme=transparent)
 </a>
 <a>
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ortizzzz4&layout=compact&theme=radical" />
