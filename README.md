@@ -64,7 +64,8 @@
 ### 📈 GitHub Stats
 
 <a>
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+ 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ortizzzz4&show_icons=true&theme=radical)
 </a>
 <a>
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ortizzzz4&layout=compact&theme=radical" />
