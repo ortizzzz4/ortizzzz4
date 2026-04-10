@@ -61,18 +61,19 @@
 
 ---
 
-### 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
-<a>
- 
-  ![ortizzzz4's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ortizzzz4\&show_icons=true\&theme=transparent)
-</a>
-<a>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ortizzzz4&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ortizzzz4&theme=tokyonight" />
+</p>
 
-  [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=ortizzzz4&theme=radical)](https://github.com/ortizzzz4/github-readme-stats-fast)
-</a>
+<h2 align="center">🧠 Top Languages</h2>
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ortizzzz4&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ortizzzz4&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ### 💡 Proyecto destacado: Factura Electrónica en Odoo
