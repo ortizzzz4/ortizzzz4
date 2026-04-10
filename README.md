@@ -13,6 +13,8 @@
 
 ---
 
+## ♟️ Pensamiento estratégico
+
 |   | A | B | C | D | E | F | G | H |
 | - | - | - | - | - | - | - | - | - |
 | 8 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/n.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/q.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/b.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/r.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
@@ -24,26 +26,41 @@
 | 2 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/Q.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) |
 | 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/B.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/N.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/R.png) |
 
+---
 
+## 🚀 Sobre mí
 
-
-
-
+- 👨‍💻 Especialista en desarrollo de módulos personalizados en **Odoo v15–v18**
+- 🧾 Integración de **Factura Electrónica (DTE)** con cumplimiento DGII
+- ⚙️ Automatización contable y generación de reportes
+- 🌐 Desarrollo con **Vue.js + FastAPI + SQL Server**
+- 🐙 Git + Docker + Deploy
+- 🔄 Migración de versiones
 
 ---
 
-### 🚀 Sobre mí
+## 🧠 Flujo de trabajo
 
-- 👨‍💻 Especialista en desarrollo de módulos personalizados en **Odoo v15–v18**, con foco en empresas del sector financiero, comercial y de servicios en **El Salvador**.
-- 🧾 Integracio de **Factura Electrónica (DTE)** en Odoo con cumplimiento DGII.
-- ⚙️ Automatización de procesos contables, generación de reportes PDF/XLSX, y desarrollo de flujos de validación tributaria.
-- 🌐 Desarrollo de sistemas web con **Vue.js**, **FastAPI** y **SQL Server**, incluyendo punto de venta visual, catálogo contable y validaciones dinámicas.
-- 🐙 Control de versiones con Git y despliegue en Docker.
-- Migracion de diferentes versiones
+```mermaid
+journey
+  title Flujo de desarrollo profesional
+  section Análisis
+    Entender requerimiento: 5: Yo
+    Revisar normativa DGII: 4: Yo
+  section Desarrollo
+    Construcción en Odoo: 5: Yo
+    Integración APIs: 4: Yo
+  section Validación
+    Pruebas contables: 5: Yo
+    Ajustes finales: 4: Yo
+  section Deploy
+    Docker + Nginx: 5: Yo
+    Producción: 5: Cliente
+```
 
 ---
 
-### 🛠️ Tecnologías
+## 🛠️ Tecnologías
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
@@ -52,17 +69,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=ortizzzz4&show_icons=true&theme=tokyonight" />
@@ -70,52 +80,43 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ortizzzz4&theme=tokyonight" />
 </p>
 
-<h2 align="center">🧠 Top Languages</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ortizzzz4&layout=compact&theme=tokyonight" />
-</p>
 ---
 
-### 💡 Proyecto destacado: Factura Electrónica en Odoo
+## 💡 Proyectos
 
-> Módulo para Odoo v16 para emisión de **Comprobantes Electrónicos (DTE),Entre otros**:  
-> ✅ Validación tributaria  
-> ✅ Firma digital y envío a la DGII  
-> ✅ Integración con ventas y punto de venta  
-> ✅ Migracion de versiones
-> ✅ Configuracion de On-Premise
-### 💡 Proyecto destacado: Plataforma contable con Vue + FastAPI
+### 🧾 Facturación Electrónica en Odoo
+- Validación tributaria  
+- Firma digital y envío a DGII  
+- Integración con ventas  
+- Migración de versiones  
 
-> Sistema contable web desarrollado con:
-> - **Vue.js**: Interfaz dinámica con vista espejo para POS  
-> - **FastAPI**: API backend con lógica financiera avanzada  
-> - **SQL Server**: Modelo contable basado en normativas de El Salvador  
-> - Funciones: registro contable, carga de archivos, validaciones, reportes
+### 🌐 Plataforma contable
+- Vue.js + FastAPI  
+- SQL Server  
+- Reportes y validaciones  
 
 ---
-# Herramientas integradas en github
-Herramientas que github implementa en su markdown para crear elementos visuales
 
-## Mermaid
+## 🧪 Mermaid
 
 ```mermaid
 journey
-  title My estudio para examenes
-  section Se anuncia el examen
-    Yo empiezo estudiando: 1: Yo
-    Hago notas sobre esto: 2: Yo
-    Pido ayuda a mi amigo: 3: Mi Amigo
-    Nosotros estudiamos juntos: 5: Mi Amigo
-  
-  section Dia del EXAMEN
-    No se que mas poner: 2: Yo
-    
+  title Proceso de aprendizaje
+  section Inicio
+    Estudiar: 2: Yo
+    Tomar notas: 3: Yo
+  section Práctica
+    Construir proyectos: 5: Yo
+    Aprender errores: 5: Yo
+  section Resultado
+    Mejorar habilidades: 5: Yo
 ```
 
-### 🔗 Portafolio
+---
 
-🌐 [luisportafolio.pythonanywhere.com](https://luisportafolio.pythonanywhere.com/)
+## 🔗 Portafolio
+
+🌐 https://luisportafolio.pythonanywhere.com/
 
 ---
 
@@ -131,7 +132,7 @@ const ortizzzz4 = {
     "Docker",
     "Git"
   ],
-  area: "Contabilidad, automatización de procesos y sistemas administrativos"
+  area: "Contabilidad y automatización empresarial"
 };
-
+```
 
