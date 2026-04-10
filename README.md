@@ -68,7 +68,8 @@
   ![ortizzzz4's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ortizzzz4\&show_icons=true\&theme=transparent)
 </a>
 <a>
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ortizzzz4&layout=compact&theme=radical" />
+
+  [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=ortizzzz4&theme=radical)](https://github.com/ortizzzz4/github-readme-stats-fast)
 </a>
 
 ---
