@@ -72,6 +72,7 @@
   [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=ortizzzz4&theme=radical)](https://github.com/ortizzzz4/github-readme-stats-fast)
 </a>
 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ortizzzz4&layout=compact)
 ---
 
 ### 💡 Proyecto destacado: Factura Electrónica en Odoo
