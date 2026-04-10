@@ -95,6 +95,19 @@
 
 ---
 
+journey
+  title My estudio para examenes
+  section Se anuncia el examen
+    Yo empiezo estudiando: 1: Yo
+    Hago notas sobre esto: 2: Yo
+    Pido ayuda a mi amigo: 3: Mi Amigo
+    Nosotros estudiamos juntos: 5: Mi Amigo
+  
+  section Dia del EXAMEN
+    No se que mas poner: 2: Yo
+    
+
+
 ### 🔗 Portafolio
 
 🌐 [luisportafolio.pythonanywhere.com](https://luisportafolio.pythonanywhere.com/)
