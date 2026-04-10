@@ -34,11 +34,12 @@
 
 ### 🚀 Sobre mí
 
-- 👨‍💻 Especialista en desarrollo de módulos personalizados en **Odoo v15–v17**, con foco en empresas del sector financiero, comercial y de servicios en **El Salvador**.
+- 👨‍💻 Especialista en desarrollo de módulos personalizados en **Odoo v15–v18**, con foco en empresas del sector financiero, comercial y de servicios en **El Salvador**.
 - 🧾 Integracio de **Factura Electrónica (DTE)** en Odoo con cumplimiento DGII.
 - ⚙️ Automatización de procesos contables, generación de reportes PDF/XLSX, y desarrollo de flujos de validación tributaria.
 - 🌐 Desarrollo de sistemas web con **Vue.js**, **FastAPI** y **SQL Server**, incluyendo punto de venta visual, catálogo contable y validaciones dinámicas.
 - 🐙 Control de versiones con Git y despliegue en Docker.
+- Migracion de diferentes versiones
 
 ---
 
